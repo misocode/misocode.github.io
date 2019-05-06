@@ -1,0 +1,42 @@
+{
+  "success":true,
+  "data":[
+    {
+      "name":"Dulcolax 200",
+      "price":20.00,
+      "count":0,
+      "weight":0.2,
+      "preview_url":"https://s3.amazonaws.com/bobbychangliu.science/guoguo.sara/inventory_images/dulcolax1.jpg"
+    },{
+      "name":"FLONASE 3件套",
+      "price":39.00,
+      "count":4,
+      "weight":1.00,
+      "preview_url":"https://s3.amazonaws.com/bobbychangliu.science/guoguo.sara/inventory_images/flonase.jpg"
+    },{
+      "name":"LAP COS 面膜贴（10 片装）",
+      "price":12.00,
+      "count":8,
+      "weight":1.00,
+      "preview_url":"https://s3.amazonaws.com/bobbychangliu.science/guoguo.sara/inventory_images/lap_cos1.jpg"
+    },{
+      "name":"SeroVital 胶原蛋白（160 粒）",
+      "price":65.00,
+      "count":14,
+      "weight":0.8,
+      "preview_url":"https://s3.amazonaws.com/bobbychangliu.science/guoguo.sara/inventory_images/sero_vital.jpg"
+    },{
+      "name":"Oral-B Floss Action 牙刷头（8 件）",
+      "price":32.00,
+      "count":4,
+      "weight":0.3,
+      "preview_url":"https://s3.amazonaws.com/bobbychangliu.science/guoguo.sara/inventory_images/oral-2.jpg"
+    },{
+      "name":"Oral-B PrecisionClean 牙刷头（8 件）",
+      "price":32.00,
+      "count":3,
+      "weight":0.3,
+      "preview_url":"https://s3.amazonaws.com/bobbychangliu.science/guoguo.sara/inventory_images/oral-1+copy.jpg"
+    }
+  ]
+}

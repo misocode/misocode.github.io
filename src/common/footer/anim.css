@@ -1,0 +1,23 @@
+@keyframes logoanim {
+  5% {
+    transform: scale(1);
+  }
+  10% {
+    transform: scale(1.2);
+  }
+  15% {
+    transform: scale(1);
+  }
+  20% {
+    transform: scale(1.2) rotate(0deg);
+  }
+  60% {
+    transform: rotate(10deg);
+  }
+  80% {
+    transform: rotate(-10deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
